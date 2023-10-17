@@ -1,0 +1,10 @@
+# Ignore the following scripts
+getPointPairs.ipynb
+getPointPairsAdvanced.ipynb
+getPointPairsSimple.ipynb
+leastCostPath.ipynb
+leastCostPathAdvanced.ipynb
+plotLCP.ipynb
+TLoutlierAnalysis.ipynb
+
+
