@@ -7,8 +7,6 @@ This project has three phases. In `Phase 1: Resource Assessment` we develop a sp
 We can add some flashy visualizations here
 
 ## ☀️ Phase 1: Resource Assessment  
-This repository contains (1) Jupyter Notebooks used to perform a continental scale site suitability assessment for wind and solar resources and (2) visualizations of outputs. 
-
 #### Methodology and Code
 We developed our model for site suitability by closely following the method outlined by Wu et al. (2023). The main steps in our analysis are described below:
 
