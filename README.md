@@ -27,9 +27,12 @@ We compared the results of our renewable resource assessment to a previous asses
 
 ## 🌐 Phase 3: Transmission Modelling 
 ### Methodology and Code
-1.[selectByAttribute.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/TransmissionModelling/selectByAttribute.ipynb):
-2.[getPointPairsTwoGeos.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/TransmissionModelling/getPointPairsTwoGeos.ipynb):
-3.[]
+
+1. [selectByAttribute.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/TransmissionModelling/selectByAttribute.ipynb):
+2. [getPointPairsTwoGeos.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/TransmissionModelling/getPointPairsTwoGeos.ipynb):
+3. [leastCostSurface.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/TransmissionModelling/leastCostSurface.ipynb):
+4. [leastCostPathTwoGeos.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/TransmissionModelling/getPointPairsTwoGeos.ipynb):
+   
 ## Figures and Visualizations
 
 ## Requirements
