@@ -7,7 +7,7 @@ leastCostPathAdvanced.ipynb
 plotLCP.ipynb
 TLoutlierAnalysis.ipynb
 
-#Ignore the following log files
-voltage_100_161_twogeos_v2.log
+#Ignore all log files
+*.log
 
 
