@@ -6,6 +6,8 @@ leastCostPath.ipynb
 leastCostPathAdvanced.ipynb
 plotLCP.ipynb
 TLoutlierAnalysis.ipynb
+leastCostPathTwoGeosDistributed.ipynb
+
 
 #Ignore all log files
 *.log
