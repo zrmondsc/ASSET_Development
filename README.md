@@ -21,12 +21,18 @@ We developed our model for site suitability by closely following the method outl
 ### Methodology and Code
 We compared the results of our renewable resource assessment to a previous assessment conducted by Wu et al. (2023). In this project we sought to reproduce various elements of the 2023 study (albeit a simplified version) on a CONUS scale. Thus this area analysis was one way to understand how our results might differ from that 2023 analysis, and how those differences might compound in subsequent analyses. We used two different rectangular meshes, derived from the community earth system model (CESM2) and the 5th generation European Center for Medium-Range Weather Forecasts (ECMRWF) atmospheric reanalysis of the global climate (ERA5), as the basis for our analysis. Thus we obtained two different cell by cell comparisons of area, using the ERA5 grid cell (0.25&deg;x0.25&deg;) and the CESM2 grid cell (1.25&deg;x125&deg;) as our fundamental units. The main steps in our analysis are described below:
 
-1. [getAreaByGrid.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/AreaAnalysis/getAreaByGrid.ipynb):
-2. [areaComparison.ipynb]()
+1. [getAreaByGrid.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/AreaAnalysis/getAreaByGridToo.ipynb):
+2. [areaComparison.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/AreaAnalysis/areaComparison.ipynb):
+3. [processAreaAssessment.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/AreaAnalysis/processAreaAssessment.ipynb):
 
 ## 🌐 Phase 3: Transmission Modelling 
 ### Methodology and Code
 
+1. [selectByAttribute.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/TransmissionModelling/selectByAttribute.ipynb):
+2. [getPointPairsTwoGeos.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/TransmissionModelling/getPointPairsTwoGeos.ipynb):
+3. [leastCostSurface.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/TransmissionModelling/leastCostSurface.ipynb):
+4. [leastCostPathTwoGeos.ipynb](https://github.com/zrmondsc/ASSET_Development/blob/master/TransmissionModelling/getPointPairsTwoGeos.ipynb):
+   
 ## Figures and Visualizations
 
 ## Requirements
